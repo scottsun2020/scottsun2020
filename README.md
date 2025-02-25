@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 ! My name is Scott Sun!
+
+- 🔭 I’m currently working on my graduate study in Computer Science at Cal State LA. 
+- 🌱 I’m currently learning Artificial Intelligence including implementing Evolutionary Algorithms on N Queens problem
+- 🤔 I’m looking for an internship or entry level job in software development, data science, AI, cloud computing etc
+- 💬 Ask me about anything related to computer science, AI, voice synthesis or my projects!
+- 📫 How to reach me: sunyadong126@gmail.com | https://www.linkedin.com/in/yadong-s-9074071b1/
+- ⚡ Fun fact: I hope I can duplicate myself with AI so we can multitasking!
 
 <!--
 **scottsun2020/scottsun2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
